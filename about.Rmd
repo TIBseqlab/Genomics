@@ -1,0 +1,5 @@
+---
+title: "About Genomics lab"
+---
+
+Why we are awesome.

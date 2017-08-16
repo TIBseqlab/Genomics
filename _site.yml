@@ -1,0 +1,11 @@
+name: "Genomics lab website"
+output_dir: "."
+navbar:
+  title: "Genomics lab Website"
+  left:
+    - text: "Home"
+      href: index.html 
+    - text: "About Genomics lab"
+      href: about.html
+    - text: "Projects"
+      href: Projects.html
